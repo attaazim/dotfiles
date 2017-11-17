@@ -1,0 +1,1 @@
+/home/attaazim/.bashrc
